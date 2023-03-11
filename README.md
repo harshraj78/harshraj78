@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshraj78&show_icons=true&locale=en" alt="harshraj78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj78&" alt="harshraj78" /></p>
+
+[![harshraj78's Web3 | Identity](https://stats.quine.sh/harshraj78/web3?theme=light)](https://quine.sh)

@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshraj78&label=Profile%20views&color=0e75b6&style=flat" alt="harshraj78" /> </p>
 [![MasterHead](https://pbs.twimg.com/profile_banners/1518650403860074496/1656462472/1080x360)](https://harshraj78.io)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">A passionate frontend developer from Noida, India</h3>

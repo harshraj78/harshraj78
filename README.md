@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hrx_78" target="blank"><img src="https://img.shields.io/twitter/follow/hrx_78?logo=twitter&style=for-the-badge" alt="hrx_78" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, React**
+- 🌱 I’m currently learning **javascript, ReactJS** , ThreeJS**
 
 - 💬 Ask me about **C++,DSA**
 

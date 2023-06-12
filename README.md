@@ -5,9 +5,9 @@
             
 <p align="left"> <a href="https://twitter.com/hrx_78" target="blank"><img src="https://img.shields.io/twitter/follow/hrx_78?logo=twitter&style=for-the-badge" alt="hrx_78" /></a> </p>
 
-- 🌱 I’m currently learning **MERN** , Open Sorce**
+- 🌱 I’m currently learning **MERN** , **Open Sorce**
 
-- 💬 Ask me about **C++,JS,**
+- 💬 Ask me about **C++**,**JS**,**DSA**
 
 - 📫 How to reach me **nharshraj78@gmail.com**
 

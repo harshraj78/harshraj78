@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Harsh Raj 👋</h1>
 
-## 👨‍💻 About Me
-
 I am a software engineer focused on building **structured, maintainable, and production-style backend systems**. 
 
 ## 📫 Contact

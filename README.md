@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harsh Raj </h1>
 
-I am a software engineer. 
+I'm a software engineer. 
 
 ## 📫 Contact
 

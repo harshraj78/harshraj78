@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Harsh Raj </h1>
-
-I'm a software engineer. 
-
 ## 📫 Contact
 
 - Email: **nharshraj78@gmail.com**
